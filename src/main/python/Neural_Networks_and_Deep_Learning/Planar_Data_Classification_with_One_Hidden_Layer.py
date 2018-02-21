@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from Neural_Networks_and_Deep_Learning.testCases import *
+from Neural_Networks_and_Deep_Learning.planar_testCases import *
 import sklearn
 import sklearn.datasets
 import sklearn.linear_model

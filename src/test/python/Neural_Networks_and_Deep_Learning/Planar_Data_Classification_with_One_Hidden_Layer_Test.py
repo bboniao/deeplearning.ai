@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pylab
 import numpy as np
 import sklearn.linear_model
-from Neural_Networks_and_Deep_Learning.testCases import *
+from Neural_Networks_and_Deep_Learning.planar_testCases import *
 import Neural_Networks_and_Deep_Learning.Planar_Data_Classification_with_One_Hidden_Layer as tc
 
 class Planar_Data_Classification_with_One_Hidden_Layer_Test(unittest.TestCase):
